@@ -1,1 +1,5 @@
-# Logger
+# Installaction
+-----------------
+```
+composer require funplus/logger "*"
+```
